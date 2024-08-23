@@ -1,4 +1,0 @@
-/home/alt/Documents/cpp/network_linux_socket/build/CMakeFiles/server.dir
-/home/alt/Documents/cpp/network_linux_socket/build/CMakeFiles/client.dir
-/home/alt/Documents/cpp/network_linux_socket/build/CMakeFiles/edit_cache.dir
-/home/alt/Documents/cpp/network_linux_socket/build/CMakeFiles/rebuild_cache.dir
